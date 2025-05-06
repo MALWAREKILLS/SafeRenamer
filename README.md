@@ -45,7 +45,7 @@
 ---
 
 ## Installation
-Windows: https://github.com/MALWAREKILLS/SafeRenamer/releases/tag/Release
+Windows: https://github.com/MalwareDot/SafeRenamer/releases/tag/Release
 
 ### Prerequisites
 - Python 3.7 or higher
